@@ -6,7 +6,7 @@ Simulación de rifas digitales hecho en Java que genera, asigna y selecciona bol
 ## Tecnologías
 - Java
 - Programación Orientada a Objetos
-- Programación Concurrente y Paralela
+- Programación Concurrente y Paralela (Hilos y sincronización)
 
 ## Funcionalidades
 - Generación de boletos (en cantidad)
