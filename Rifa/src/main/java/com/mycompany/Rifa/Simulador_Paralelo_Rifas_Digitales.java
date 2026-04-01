@@ -1,4 +1,4 @@
-package com.mycompany.simulador_paralelo_rifas_digitales;
+package com.mycompany.Rifa;
 
 public class Simulador_Paralelo_Rifas_Digitales {
     public static void main(String[] args) {
