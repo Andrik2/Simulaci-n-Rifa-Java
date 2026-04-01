@@ -1,4 +1,4 @@
-package com.mycompany.simulador_paralelo_rifas_digitales;
+package com.mycompany.Rifa;
 import java.util.ArrayList;
 import java.util.Random;
 import java.util.Scanner;
